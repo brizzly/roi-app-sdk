@@ -1,4 +1,5 @@
 # roi-app-sdk
+![roi-app.com](logo.png)
 
 Installation
 
